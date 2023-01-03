@@ -8,7 +8,7 @@ There are some more problems presented by the company which your model should be
 Total steps followed are: 
 1. Cleaning data
 2. EDA
-3.Dummy Variables
+3. Dummy Variables
 4. Train-Test split
 5. Model Building
 6. Model Evaluation
