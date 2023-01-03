@@ -14,3 +14,8 @@ Total steps followed are:
 6. Model Evaluation
 7. Prediction
 8. Precision –Recall
+Notebooks:
+LEAD SCORING CASE STUDY.ipynb - Notebook with python code
+Lead Scoring Case Study.pptx - Final presentation
+Assignment Subjective Questions.docx - subjective questions
+Lead scoring Summary.pdf -summary of the case study
